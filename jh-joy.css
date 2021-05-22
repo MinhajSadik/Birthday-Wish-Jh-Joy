@@ -11,7 +11,8 @@ img{
 .image {
     /* border-radius: 100%; */
     padding-left: 80%;
-
+    position: relative;
+    bottom: 100px;
 }
 .date{
     color: royalblue;
@@ -23,6 +24,9 @@ img{
     background-color: black;
     color: wheat;
     display: inline-block;
-    padding-left: 0px;
-    padding-top: 0px;
+    position: relative;
+    left: 15%;
+    /* padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px; */
 }
