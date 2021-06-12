@@ -2,6 +2,22 @@
   padding: 0%;
   margin: 0%;
 }
+body {
+  background-color: blanchedalmond;
+  /* background-image: url(./images-videos/image-jh-joy.jpg); */
+}
+video {
+  /* padding-left:250px; */
+  position: relative;
+  left: 8%;
+  width: 300px;
+  height: 200px;
+}
+iframe {
+  margin-left: 40px;
+  width: 300px;
+  height: 150px;
+}
 iframe {
   height: 400px;
   width: 300px;
